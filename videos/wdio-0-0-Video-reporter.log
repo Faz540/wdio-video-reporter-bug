@@ -1,0 +1,68 @@
+Using reporter config:[
+  "spec",
+  [
+    null,
+    {
+      "saveAllVideos": true,
+      "videoSlowdownMultiplier": 50,
+      "outputDir": "./videos"
+    }
+  ]
+]
+
+Using config:{
+  "debugMode": false,
+  "logLevel": "info",
+  "videoRenderTimeout": 5,
+  "outputDir": "videos",
+  "allureOutputDir": "allure-results",
+  "rawPath": "rawSeleniumVideoGrabs",
+  "usingAllure": false,
+  "saveAllVideos": true,
+  "videoSlowdownMultiplier": 50,
+  "excludedActions": [],
+  "jsonWireActions": [
+    "url",
+    "forward",
+    "back",
+    "refresh",
+    "execute",
+    "size",
+    "position",
+    "maximize",
+    "click",
+    "submit",
+    "value",
+    "keys",
+    "clear",
+    "selected",
+    "enabled",
+    "displayed",
+    "orientation",
+    "alert_text",
+    "accept_alert",
+    "dismiss_alert",
+    "moveto",
+    "buttondown",
+    "buttonup",
+    "doubleclick",
+    "down",
+    "up",
+    "move",
+    "scroll",
+    "doubleclick",
+    "longclick",
+    "flick",
+    "location"
+  ]
+}
+
+
+
+Generated:[
+  "/Users/faz-mac/Development/wdio-video-reporter-bug/videos/Video-is-NOT-successfully-captured-when-element-is-not-visible-in-the-BEFORE-hook--adds-the-product-to-bag--CHROME--27-01-2020--21-41-34-822.mp4"
+]
+
+
+
+Video reporter Done!
